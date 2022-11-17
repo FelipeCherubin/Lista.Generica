@@ -1,0 +1,16 @@
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ListaGenerica.exe
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ListaGenerica.deps.json
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ListaGenerica.runtimeconfig.json
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ListaGenerica.runtimeconfig.dev.json
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ListaGenerica.dll
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ref\ListaGenerica.dll
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\bin\Debug\net5.0\ListaGenerica.pdb
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.AssemblyInfoInputs.cache
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.AssemblyInfo.cs
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.csproj.CoreCompileInputs.cache
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.dll
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ref\ListaGenerica.dll
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.pdb
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.genruntimeconfig.cache
+C:\Users\dell\Documents\projetos GitLab\ListaGenerica\ListaGenerica\obj\Debug\net5.0\ListaGenerica.csproj.AssemblyReference.cache

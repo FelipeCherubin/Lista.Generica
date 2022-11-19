@@ -1,2 +1,2 @@
 # Lista.Generica
-Escrevendo uma lista genérica de forma manual
+Escrevendo uma simples lista genérica de forma manual sem o uso do using System.Collections.Generic
